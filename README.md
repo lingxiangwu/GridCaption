@@ -1,2 +1,4 @@
 # GridCaption
-Implementation of GridLSTM in image captioning
+Pytorch implementation of GridLSTM in Image Captioning 
+
+Thanks the ImageCaptioning.pytorch
